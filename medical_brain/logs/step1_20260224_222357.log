@@ -1,0 +1,26 @@
+2026-02-24 22:23:57,169 [INFO] ============================================================
+2026-02-24 22:23:57,169 [INFO]   MEDICAL BRAIN - Step 1: Data Preparation
+2026-02-24 22:23:57,169 [INFO] ============================================================
+2026-02-24 22:23:57,171 [INFO] 
+Found 9 files to process.
+
+2026-02-24 22:23:57,171 [INFO] [1/9]
+2026-02-24 22:24:34,961 [ERROR] OCR error on BNP Test Report Format_ PDF, Sample Template & Example Guide _ Drlogy.jpg: Unknown argument: show_log
+2026-02-24 22:24:34,971 [INFO] [2/9]
+2026-02-24 22:24:34,995 [ERROR] OCR error on CBC (Complete Blood Count) Test_ Price, Normal Range & Result _ Drlogy (1).jpg: Unknown argument: show_log
+2026-02-24 22:24:34,997 [INFO] [3/9]
+2026-02-24 22:24:35,009 [ERROR] OCR error on CBC (Complete Blood Count) Test_ Price, Normal Range & Result _ Drlogy (2).jpg: Unknown argument: show_log
+2026-02-24 22:24:35,013 [INFO] [4/9]
+2026-02-24 22:24:35,028 [ERROR] OCR error on CBC (Complete Blood Count) Test_ Price, Normal Range & Result _ Drlogy.jpg: Unknown argument: show_log
+2026-02-24 22:24:35,030 [INFO] [5/9]
+2026-02-24 22:24:35,044 [ERROR] OCR error on download (1).jpg: Unknown argument: show_log
+2026-02-24 22:24:35,048 [INFO] [6/9]
+2026-02-24 22:24:35,059 [ERROR] OCR error on download (2).jpg: Unknown argument: show_log
+2026-02-24 22:24:35,062 [INFO] [7/9]
+2026-02-24 22:24:35,074 [ERROR] OCR error on download.jpg: Unknown argument: show_log
+2026-02-24 22:24:35,078 [INFO] [8/9]
+2026-02-24 22:24:35,094 [ERROR] OCR error on my blood report.jpg: Unknown argument: show_log
+2026-02-24 22:24:35,097 [INFO] [9/9]
+2026-02-24 22:24:35,132 [INFO] 
+============================================================
+2026-02-24 22:24:35,167 [INFO] ============================================================

@@ -1,0 +1,100 @@
+=== SOURCE: my blood report.jpg ===
+=== PROCESSED: 2026-02-24 23:13 ===
+=== FORMAT: .JPG ===
+
+HIND
+Reg
+Diagnostic
+[NAME]
+:HP/11/24/6879
+AGE \SEX
+: 29 Y
+NAME
+: KISA
+[NAME] COLLECTION
+:05-N
+[NAME]
+: DR. [NAME]
+[NAME] REPORTING
+:05-N
+[NAME]
+: UJWAL
+[NAME] REPORT
+[NAME]
+[NAME]
+UNITS
+[NAME]
+HAEMATOLOGY
+[NAME] COUNT
+Haemoglobin
+8.7
+gm%
+12 -15
+[NAME] Count (TLC)
+5,100
+/cmm
+4,000 - 10,000
+[NAME] Volume (PCV)
+26.1
+%
+36-45
+[NAME]
+96000
+/cmm
+[PHONE]
+[NAME]
+2.89
+mil/cmm
+4.5-5.5
+M.C.V.
+90.5
+fl
+80-100
+M.C.H.
+30.2
+pg
+27 -33
+M.C.H.C.
+33.4
+g/dl
+32-36
+[NAME] COUNT
+Neutrophils
+87
+%
+40-80
+Lymphocytes
+10
+%
+20 - 40
+Eosinophils
+01
+%
+01 - 06
+Monocytes
+02
+%
+02 -08
+Basophiles
+00
+%
+00-01
+REMARKS:
+[NAME] [NAME] [NAME].Anemia
+[NAME] [NAME] [NAME].
+Thrombopenia.
+En  .
+[NAME]
+DR. [NAME]
+[NAME]
+Monday - Saturday : 8.00 AM. to 8.00 PM.
+:[PHONE],9935
+Sunday : 8.00 AM. to 2.00 PM.
+[NAME]:
+450/830, [NAME] Part-2, [NAME]
+FACILITIES :
+[NAME], Muftiganj, Thakurganj, Lucknow.
+E-mail: [EMAIL]
+athology • Digial X-Ray
+ECG •[NAME] Vial a
+Ph. [PHONE], [PHONE]

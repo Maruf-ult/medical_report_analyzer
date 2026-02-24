@@ -1,0 +1,76 @@
+=== SOURCE: download (2).jpg ===
+=== PROCESSED: 2026-02-24 23:12 ===
+=== FORMAT: .JPG ===
+
+ADITHYA
+LAB
+ADITHYA
+MEDICAL
+CENTRE
+No.52,
+Abbusali
+Street,
+Saligramam,
+Chennai
+-600
+093.
+AB
+23763430
+Computerised
+Clinical
+Lab,
+Advanced
+X-Ray,
+Mobile X-Ray,
+E.C.G.,
+Ultrasonogram,
+Physiotherapy
+Master
+Health
+Check-up
+Complete
+[NAME].
+B.NO:21369
+[NAME]: [PATIENT_ID]. Preettha
+Age: 38
+yrs
+Sex: Female
+Ref.By: Dr. [NAME]
+Date:[PHONE]
+[NAME]
+[NAME]:
+COLOUR
+: [NAME]
+APPEARANCE
+: CLEAR
+REACTION
+: ACIDIC
+PH
+:6.0
+[NAME] : 1 . 015
+ALBUMIN
+:(+++)
+SUGAR
+:++)
+BILESALT
+: NEGATIVE
+BILEPIGMENT
+: NEGATIVE
+UROBILINOGEN
+: NORMAL
+DEPOSITES:
+[NAME]
+: 15-20/HPF
+[NAME]
+S:3-5/HPF
+RBCS
+: 2-3/HPF
+CRYSTALS
+: NIL
+CAST
+: NIL
+[NAME]
+Dr.[NAME].,
+[NAME]
+[NAME] Lab
+[NAME] Soon

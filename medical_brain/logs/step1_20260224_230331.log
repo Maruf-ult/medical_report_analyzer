@@ -1,0 +1,8 @@
+2026-02-24 23:03:31,635 [INFO] ============================================================
+2026-02-24 23:03:31,635 [INFO]   MEDICAL BRAIN - Step 1: Data Preparation
+2026-02-24 23:03:31,636 [INFO] ============================================================
+2026-02-24 23:03:31,636 [INFO] Found 9 files to process.
+
+2026-02-24 23:03:31,637 [INFO] [1/9]
+2026-02-24 23:03:31,637 [INFO]   [PROCESSING] BNP Test Report Format_ PDF, Sample Template & Example Guide _ Drlogy.jpg
+2026-02-24 23:03:31,638 [INFO] [INIT] Loading PaddleOCR models (first time only)...

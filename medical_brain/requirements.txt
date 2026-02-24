@@ -1,0 +1,22 @@
+# MEDICAL BRAIN - Python Dependencies
+# Install everything with: pip install -r requirements.txt
+#
+# NOTE: PaddleOCR has a separate install step (see README)
+
+# ── Step 1: Data Preparation ──────────────────────────────────────────────────
+pdfplumber==0.11.4          # Extract text from digital PDFs (fast)
+paddlepaddle==2.6.1         # PaddleOCR engine (CPU version)
+paddleocr==2.7.3            # OCR for scanned PDFs and images
+
+# ── Step 2 & 3: Vector Database & Embeddings ──────────────────────────────────
+chromadb==0.5.3             # Local vector database (free, no server needed)
+sentence-transformers==3.0.1 # Converts text to embeddings (runs locally)
+
+# ── Step 4-6: App Interface ───────────────────────────────────────────────────
+streamlit==1.36.0           # Web UI (run with: streamlit run app.py)
+ollama==0.3.0               # Python client for Ollama (local LLM)
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tqdm==4.66.4                # Progress bars
+python-dotenv==1.0.1        # Environment variable management
+Pillow==10.4.0              # Image handling

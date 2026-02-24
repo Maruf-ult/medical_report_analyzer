@@ -1,0 +1,33 @@
+2026-02-24 22:32:13,726 [INFO] ============================================================
+2026-02-24 22:32:13,726 [INFO]   MEDICAL BRAIN - Step 1: Data Preparation
+2026-02-24 22:32:13,727 [INFO] ============================================================
+2026-02-24 22:32:13,729 [INFO] 
+Found 9 files to process.
+
+2026-02-24 22:32:13,729 [INFO] [1/9]
+2026-02-24 22:32:13,729 [INFO]   [SKIP] Already processed: BNP Test Report Format_ PDF, Sample Template & Example Guide _ Drlogy.jpg
+2026-02-24 22:32:13,729 [INFO] [2/9]
+2026-02-24 22:32:13,730 [INFO]   [SKIP] Already processed: CBC (Complete Blood Count) Test_ Price, Normal Range & Result _ Drlogy (1).jpg
+2026-02-24 22:32:13,730 [INFO] [3/9]
+2026-02-24 22:32:13,730 [INFO]   [SKIP] Already processed: CBC (Complete Blood Count) Test_ Price, Normal Range & Result _ Drlogy (2).jpg
+2026-02-24 22:32:13,730 [INFO] [4/9]
+2026-02-24 22:32:13,731 [INFO]   [SKIP] Already processed: CBC (Complete Blood Count) Test_ Price, Normal Range & Result _ Drlogy.jpg
+2026-02-24 22:32:13,731 [INFO] [5/9]
+2026-02-24 22:32:13,731 [INFO]   [SKIP] Already processed: download (1).jpg
+2026-02-24 22:32:13,732 [INFO] [6/9]
+2026-02-24 22:32:13,732 [INFO]   [SKIP] Already processed: download (2).jpg
+2026-02-24 22:32:13,732 [INFO] [7/9]
+2026-02-24 22:32:13,732 [INFO]   [SKIP] Already processed: download.jpg
+2026-02-24 22:32:13,733 [INFO] [8/9]
+2026-02-24 22:32:13,733 [INFO]   [SKIP] Already processed: my blood report.jpg
+2026-02-24 22:32:13,733 [INFO] [9/9]
+2026-02-24 22:32:13,734 [INFO]   [SKIP] Already processed: ￼_￼_￼_￼_￼_￼_￼_￼_￼_￼_.jpg
+2026-02-24 22:32:13,734 [INFO] 
+============================================================
+2026-02-24 22:32:13,734 [INFO]   [OK] SUCCESS: 9/9 files processed
+2026-02-24 22:32:13,735 [INFO]   [TIME] Total time: 0.0 minutes
+2026-02-24 22:32:13,735 [INFO]   [OUT] Output folder: E:\medical_report_analyzer\medical_brain\processed_text
+2026-02-24 22:32:13,736 [INFO] ============================================================
+2026-02-24 22:32:13,736 [INFO] 
+[DONE] Step 1 Complete! Run step2_setup_chromadb.py next.
+

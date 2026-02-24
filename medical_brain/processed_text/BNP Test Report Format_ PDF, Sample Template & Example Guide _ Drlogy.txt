@@ -1,0 +1,79 @@
+=== SOURCE: BNP Test Report Format_ PDF, Sample Template & Example Guide _ Drlogy.jpg ===
+=== PROCESSED: 2026-02-24 23:11 ===
+=== FORMAT: .JPG ===
+
+[NAME] LAB
+[PHONE] | [PHONE]
+Accurate | Caring | Instant
+[EMAIL]
+105 -108, [NAME] COMPLEX, [NAME], [NAME] COMPLEX. MUMBAI - 689578
+www.drlogy.com
+Yashvi M. Patel
+[NAME] At:
+Age: 21 Years
+125, [NAME], S G Road, Mumbai
+Sex: Female
+[NAME]: 02:31 PM 02 Dec, 2X
+[NAME] By: [NAME]
+UHID : 556
+[NAME]: 03:11 PM 02 Dec, 2X
+Ref. By: Dr. [NAME]
+[NAME]: 04:35 PM 02 Dec, 2X
+B-[NAME] PEPTIDE (BNP)
+Investigation
+Result
+[NAME]
+Unit
+[NAME]
+Plasma (2 ml)
+TAT: 1 hr (Normal: 1 - 4 hrs)
+BNP (B-[NAME] PEPTIDE)
+117.00
+High
+<29.40
+pg/mL
+CLIA
+Note:
+. [NAME] [NAME] [NAME] [NAME] [NAME], [NAME] [NAME] [NAME]
+2. [NAME] [NAME] [NAME] [NAME] age, gender, BMI & [NAME]
+. [NAME] [NAME] threshold (specificity >97%) [NAME] [NAME] is 100 pg/mL
+ntInterpretation:
+[NAME] [NAME] [NAME] failure.
+[NAME]
+5TH -95TH PERCENTILE
+> 100 pg/mL (%)
+[NAME]
+<2-772
+I1
+[PHONE]
+III
+[PHONE]
+Drl y.com
+82.0
+IV
+109-3157
+ALL
+[PHONE]
+Comments:
+B-[NAME] peptide (BNP) [NAME] [NAME] [NAME] [NAME] [NAME] [NAME]
+[NAME] (ANP). [NAME] [NAME] [NAME] [NAME] [NAME] [NAME]
+[NAME] [NAME] hypertension. [NAME] [NAME] [NAME] [NAME] [NAME] [NAME] increased
+[NAME] [NAME] [NAME] [NAME] [NAME].
+[NAME]:
+[NAME]: [NAME], [NAME] [NAME], [NAME] [NAME], Cardiac
+hypertrophy, [NAME] disease, Arrhythmia, [NAME] syndrome.
+Non-[NAME]: [NAME] [NAME] failure, [NAME], Hyperaldosteronism, Cushing's syndrome.
+[NAME]:
+[NAME] [NAME] [NAME] [NAME] [NAME].
+****[NAME] Report****
+[NAME] Reference
+Katat
+Dr. [NAME]
+Dr. [NAME]
+[NAME] Technician
+(MD, Pathologist)
+(MD, Pathologist)
+(DMLT, BMLT)
+[NAME]: 02 Dec, 202X 05:00 PM
+Page 1 of 1
+[NAME] [NAME] [NAME] [NAME] [NAME]

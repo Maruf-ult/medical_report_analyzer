@@ -1,0 +1,77 @@
+=== SOURCE: download (1).jpg ===
+=== PROCESSED: 2026-02-24 23:12 ===
+=== FORMAT: .JPG ===
+
+DR.
+LAB
+CARE
+Pathological&Laboratory
+[NAME]
+206
+[NAME]
+17-Mar-25
+Patient's Name
+Mst. Chhandak
+Age
+18 Months
+[NAME] Dr.
+U. B. [NAME],DCH
+Sex
+Male
+[NAME]
+EDTA
+[NAME]
+17-Mar-25
+HAEMATOLOGY
+[NAME]
+Results
+Units
+[NAME]
+Haemoglobin
+11.7
+gm/dl
+8,[PHONE]
+[NAME] Count
+/cumm
+[PHONE]
+[NAME] Count
+Polymorphs
+50
+%
+Lymphocytes
+43
+%
+Eosinophils
+06
+%
+Monocytes
+01
+%
+Basophils
+00
+%
+GBP
+RBC- [NAME] [NAME] [NAME]. Normocytes, Ovalocytes
+and a [NAME] [NAME] [NAME] seen.
+WBC:- [NAME] [NAME] (8,800/cumm) [NAME] [NAME] normal.
+Platelets- Adequate (2.41 Lac/cumm) [NAME] [NAME] [NAME].
+[NAME]/[NAME] seen.
+IMPRESSION - S/O [NAME] [NAME].
+Note- [NAME] [NAME] [NAME] [NAME] follows
+1-.Lymphocytes-[PHONE]/cmm.
+2- Neutrophils- [PHONE]/cmm.
+3- Monocytes-200-1100/comm.
+4-Eosinophils-100-1000/cmm
+[NAME] REFERENCE
+***[NAME] Report***
+[NAME]
+[NAME]
+Dr.V.Chandol
+Pro.S.SChauhan
+MBBS,MD(Pat
+BSc,MLT(MB)-Delhi
+EXP:Sr.Dr.[NAME] Lab, PDC
+Not: [NAME] [NAME] [NAME] limitations. [NAME] [NAME] [NAME] [NAME] clini
+[NAME] [NAME] [NAME] [NAME] confirm. [NAME] [NAME] [NAME]
+Harbanshpur, [NAME] No. :[PHONE]
+E-mail:[EMAIL]
